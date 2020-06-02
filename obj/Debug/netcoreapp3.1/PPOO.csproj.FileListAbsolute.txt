@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\bin\Debug\netcoreapp3.1\PPOO.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\PPOO\obj\Debug\netcoreapp3.1\PPOO.genruntimeconfig.cache
